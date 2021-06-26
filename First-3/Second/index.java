@@ -10,10 +10,10 @@ public class index {
             }
             System.out.print("*");
             for (int j2 = 0; j2 <=i-2; j2++) {
-                System.out.print(" ");
+                System.out.print("*");
             }
             for (int j5 = 2; j5 <=i/1-1; j5++) {
-                System.out.print(" ");
+                System.out.print("*");
             }
             for (int j6 = 1; j6 <=1; j6++) {
                 if (i != 1) {
@@ -28,10 +28,10 @@ public class index {
                     }
                     System.out.print("*");
                     for (int j4 = 1; j4 <=i-i2-1; j4++) {
-                        System.out.print(" ");
+                        System.out.print("*");
                     }
                     for (int j5 = 2; j5 <=i-i2-1; j5++) {
-                        System.out.print(" ");
+                        System.out.print("*");
                     }
                     if (i2 != 5) {
                        System.out.print("*");
