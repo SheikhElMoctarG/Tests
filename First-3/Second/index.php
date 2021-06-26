@@ -6,10 +6,10 @@
      }
      echo "*";
      for ($j2=1; $j2 <=$i-1; $j2++) { 
-         echo " ";
+         echo "*";
      }
      for ($j3=1; $j3 <=$i/1-2; $j3++) { 
-         echo " ";
+         echo "*";
      }
      if ($i != 1) {
          echo "*";
@@ -22,10 +22,10 @@
              }
              echo "*";
              for ($j2=1; $j2 <=$i-$i2-1; $j2++) { 
-                 echo " ";
+                 echo "*";
              }
              for ($j3=1; $j3 <=$i-$i2-2; $j3++) { 
-                 echo " ";
+                 echo "*";
              }
              if ($i2 != 5) {
                  echo "*";
